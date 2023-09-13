@@ -7,3 +7,4 @@ programa
 		leia(num2)
 		resposta = num1 + num2
 		escreva(resposta)
+}
